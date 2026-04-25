@@ -1,33 +1,39 @@
-# 📊 HR Analytics Dashboard (Power BI)
+# 👥 HR Analytics Dashboard — Power BI
 
-## 🔍 Project Overview
-This project presents an interactive HR Analytics Dashboard built using Power BI to analyze employee attrition, salary trends, and workforce insights. It helps organizations make data-driven HR decisions.
+## 📌 Project Overview
+An interactive Power BI dashboard analyzing employee attrition 
+and workforce data across 3 departments — Human Resources, 
+Research & Development, and Sales — to help organizations 
+reduce turnover and improve retention strategies.
+
+## 🔢 Key Metrics
+- 👨‍💼 Total Employees: 1,473
+- 📉 Total Attrition: 237
+- 📊 Attrition Rate: 16.1%
+- 🎂 Average Age: 37 years
+- 💰 Average Salary: ₹6,500
+- 📅 Average Years at Company: 7 years
+
+## 💡 Key Insights
+- 👶 **Age Group:** 26-35 age group has highest attrition (116), 
+  showing young employees leave the most
+- 🎓 **Education:** Life Sciences graduates account for 38% 
+  of attrition, highest among all education fields
+- 👨 **Gender:** Male attrition (140) is significantly higher 
+  than Female (79)
+- 💼 **Top Job Role:** Laboratory Technician has highest 
+  attrition (62), followed by Sales Executive (57)
+- 💸 **Salary Impact:** Employees earning upto ₹5K have 
+  highest attrition (163), indicating salary is a key 
+  retention factor
+- ⏳ **Tenure Risk:** Attrition peaks around years 1-2, 
+  suggesting onboarding and early engagement needs improvement
+- 🏢 **Department Filter:** Dashboard supports department-wise 
+  analysis across HR, R&D, and Sales
 
 ## 🛠 Tools Used
-- Power BI  
-- Power Query  
-- DAX  
-- Excel  
+- Power BI Desktop
+- Microsoft Excel
 
-## 📈 Key Insights
-- Attrition rate is 16.1%
-- Highest attrition in age group 26–35
-- Life Sciences & Medical backgrounds have more attrition
-- Laboratory Technicians & Sales Executives are most affected
-- Low salary group (up to 5K) shows highest attrition
-
-## 📊 Dashboard Features
-- KPI cards (Employees, Attrition, Avg Salary, Age)
-- Attrition analysis by Age, Education, Salary & Job Role
-- Department-wise filtering
-- Interactive visuals
-
-## 📷 Dashboard Preview
-![Dashboard](Screenshot 2026-04-15 103904.png)
-
-## 📂 Files Included
-- project 1.pbix
-- Data HR_Analytics.csv
-
-## 💡 Conclusion
-Attrition is mainly influenced by salary, age, and job roles. Companies can improve retention by focusing on compensation and employee growth strategies.
+## 📊 Dashboard Preview
+![HR Analytics Dashboard](dashboard.png)
